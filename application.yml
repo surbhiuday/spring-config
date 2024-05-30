@@ -1,5 +1,5 @@
 my:
-     greeting : hello intuit
+     greeting: hello intuit
       list:
           values:
                     One,two,three,four	
