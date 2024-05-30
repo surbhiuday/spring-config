@@ -1,0 +1,10 @@
+my:
+     greeting : hello intuit
+      list:
+          values:
+                    One,two,three,four	
+
+db:
+connection: connection-string-here-from-config-server
+host:127.0.0.1
+port: 1200
