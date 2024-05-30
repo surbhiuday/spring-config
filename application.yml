@@ -1,7 +1,6 @@
 my:
-     greeting: hello intuit
-      list:
-          values:
-                    One,two,three,four	
+  greeting: hello intuit
+  list: null
+  values: 'One,two,three,four'
 
 
