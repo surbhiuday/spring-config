@@ -1,0 +1,4 @@
+my:
+  greeting: hello client dear
+  list: null
+  values: 'One,two,three,four'
